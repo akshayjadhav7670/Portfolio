@@ -7,7 +7,7 @@ import {BsLinkedin} from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>Krushna Pulate</a>
+      <a href="#" className='footer__logo'>Akshay Jadhav</a>
 
       <ul className="permalinks">
         <li><a href='#'>Home</a></li>
@@ -20,13 +20,13 @@ const Footer = () => {
       <div className="footer__social">
         <a href="#" target='_blank'><FaFacebookF/></a>
         <a href="#" target='_blank'><BsInstagram/></a>
-        <a href='https://www.linkedin.com/in/krushna-pulate-29756421a/' target="_blank"><BsLinkedin/></a>
+        <a href='https://www.linkedin.com/in/akshay-jadhav-15466a206/' target="_blank"><BsLinkedin/></a>
         
       </div>
 
 
       <div className="footer__copyright">
-        <small>&copy; Krushna Pulate. All rights reserved.</small>
+        <small>&copy; Akshay Jadhav. All rights reserved.</small>
       </div>
     </footer>
 
